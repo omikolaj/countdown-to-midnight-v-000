@@ -13,8 +13,6 @@ def countdown_with_sleep (number)
     sleep(2.seconds)
     puts "#{number} SECOND(S)!"
     number-=1
-    
+
   end
 end
-
-    
